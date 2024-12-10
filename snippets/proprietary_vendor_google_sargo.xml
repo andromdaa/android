@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="vendor/google/sargo" remote="github" name="TheMuppets/proprietary_vendor_google_sargo" revision="lineage-21" depth="1" />
+</manifest>
